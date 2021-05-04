@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087750692119",
+    "project_id": "crypto-47789",
+    "storage_bucket": "crypto-47789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087750692119:android:e0205ec084837aa0f52b52",
+        "android_client_info": {
+          "package_name": "com.example.coins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087750692119-8u9ih4pt5hifqj0a76vbbnddgnjl3ift.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmUygAjPzda7DbFpoTfjIEhN6-JwWcwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087750692119-8u9ih4pt5hifqj0a76vbbnddgnjl3ift.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
